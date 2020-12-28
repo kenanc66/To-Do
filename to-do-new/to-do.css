@@ -1,0 +1,26 @@
+#header {
+  font-size: 25px;
+  display: flex;
+  justify-content: center;
+  font-weight: bold;
+  margin: 2rem;
+}
+a {
+  color: white;
+}
+body {
+  background-color: #eb5352;
+}
+#btnDeleteAll {
+  background-color: #eb5352;
+  color: aliceblue;
+}
+#btnAddNewTask {
+  background-color: #eb5352;
+}
+.card-header {
+  font-weight: bold;
+}
+.close {
+  color: #eb5352;
+}
